@@ -73,6 +73,7 @@
 <section class="section navigation-section">
   <div class="container is-max-desktop">
     <div class="navigation-menu">
+      <a href="#gallery" class="nav-item">Gallery</a>
       <a href="#news" class="nav-item">News</a>
       <a href="#people" class="nav-item">People</a>
       <a href="#projects" class="nav-item">Projects</a>
@@ -80,6 +81,71 @@
     </div>
   </div>
 </section>
+
+<!-- Photo Gallery Section -->
+<section id="gallery" class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-ninety">
+        <h2 class="title is-2">Life at Cornell DB Group</h2>
+        <p class="subtitle is-5">Conferences, Retreats, Graduations & Group Moments</p>
+
+        <div class="gallery-grid">
+          <div class="gallery-item" onclick="openLightbox(0)">
+            <img src="static/images/life/retreat-24.jpg" alt="Retreat 2024" loading="lazy">
+            <div class="gallery-overlay">
+              <span class="gallery-caption">Retreat 2024</span>
+            </div>
+          </div>
+
+          <div class="gallery-item" onclick="openLightbox(1)">
+            <img src="static/images/life/retreat-24-ball.jpg" alt="Retreat 2024 - Ball Game" loading="lazy">
+            <div class="gallery-overlay">
+              <span class="gallery-caption">Retreat 2024 - Ball Game</span>
+            </div>
+          </div>
+
+          <div class="gallery-item" onclick="openLightbox(2)">
+            <img src="static/images/life/retreat-25.jpg" alt="Retreat 2025" loading="lazy">
+            <div class="gallery-overlay">
+              <span class="gallery-caption">Retreat 2025</span>
+            </div>
+          </div>
+
+          <div class="gallery-item" onclick="openLightbox(3)">
+            <img src="static/images/life/saehan-graduation.jpg" alt="Saehan's Graduation" loading="lazy">
+            <div class="gallery-overlay">
+              <span class="gallery-caption">Saehan's Graduation</span>
+            </div>
+          </div>
+
+          <div class="gallery-item" onclick="openLightbox(4)">
+            <img src="static/images/life/sigmod-group.jpg" alt="SIGMOD - Group Photo" loading="lazy">
+            <div class="gallery-overlay">
+              <span class="gallery-caption">SIGMOD - Group Photo</span>
+            </div>
+          </div>
+
+          <div class="gallery-item" onclick="openLightbox(5)">
+            <img src="static/images/life/sigmod-jiale-immanuel.jpg" alt="SIGMOD - Jiale & Immanuel" loading="lazy">
+            <div class="gallery-overlay">
+              <span class="gallery-caption">SIGMOD - Jiale & Immanuel</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Lightbox Modal -->
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+  <span class="lightbox-close">&times;</span>
+  <span class="lightbox-prev" onclick="event.stopPropagation(); changeImage(-1)">&#10094;</span>
+  <span class="lightbox-next" onclick="event.stopPropagation(); changeImage(1)">&#10095;</span>
+  <img id="lightbox-img" class="lightbox-content">
+  <div id="lightbox-caption" class="lightbox-caption"></div>
+</div>
 
 <!-- News Section -->
 <section id="news" class="section hero is-light">

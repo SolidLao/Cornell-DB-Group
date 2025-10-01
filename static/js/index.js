@@ -87,4 +87,72 @@ window.addEventListener('click', function(e) {
   }
 });
 
+// Gallery images data
+const galleryImages = [
+  { src: 'static/images/life/retreat-24.jpg', caption: 'Retreat 2024' },
+  { src: 'static/images/life/retreat-24-ball.jpg', caption: 'Retreat 2024 - Ball Game' },
+  { src: 'static/images/life/retreat-25.jpg', caption: 'Retreat 2025' },
+  { src: 'static/images/life/saehan-graduation.jpg', caption: "Saehan's Graduation" },
+  { src: 'static/images/life/sigmod-group.jpg', caption: 'SIGMOD - Group Photo' },
+  { src: 'static/images/life/sigmod-jiale-immanuel.jpg', caption: 'SIGMOD - Jiale & Immanuel' }
+];
+
+let currentImageIndex = 0;
+
+// Open lightbox with specific image
+function openLightbox(index) {
+  currentImageIndex = index;
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-img');
+  const lightboxCaption = document.getElementById('lightbox-caption');
+
+  lightbox.style.display = 'block';
+  lightboxImg.src = galleryImages[index].src;
+  lightboxCaption.textContent = galleryImages[index].caption;
+
+  // Prevent body scroll when lightbox is open
+  document.body.style.overflow = 'hidden';
+}
+
+// Close lightbox
+function closeLightbox() {
+  const lightbox = document.getElementById('lightbox');
+  lightbox.style.display = 'none';
+
+  // Re-enable body scroll
+  document.body.style.overflow = 'auto';
+}
+
+// Change image in lightbox (next/previous)
+function changeImage(direction) {
+  currentImageIndex += direction;
+
+  // Wrap around
+  if (currentImageIndex >= galleryImages.length) {
+    currentImageIndex = 0;
+  } else if (currentImageIndex < 0) {
+    currentImageIndex = galleryImages.length - 1;
+  }
+
+  const lightboxImg = document.getElementById('lightbox-img');
+  const lightboxCaption = document.getElementById('lightbox-caption');
+
+  lightboxImg.src = galleryImages[currentImageIndex].src;
+  lightboxCaption.textContent = galleryImages[currentImageIndex].caption;
+}
+
+// Keyboard navigation for lightbox
+document.addEventListener('keydown', function(e) {
+  const lightbox = document.getElementById('lightbox');
+  if (lightbox.style.display === 'block') {
+    if (e.key === 'Escape') {
+      closeLightbox();
+    } else if (e.key === 'ArrowLeft') {
+      changeImage(-1);
+    } else if (e.key === 'ArrowRight') {
+      changeImage(1);
+    }
+  }
+});
+
 console.log('Cornell Database Group website loaded successfully!');
