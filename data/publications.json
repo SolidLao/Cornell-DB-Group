@@ -1,0 +1,802 @@
+{
+  "2026": [
+    {
+      "venue": "SIGMOD 2026",
+      "title": "Large-Scale Multiple Query Optimisation with Incremental Quantum(-Inspired) Annealing",
+      "authors": "Manuel Schönberger, Immanuel Trummer, Wolfgang Mauerer",
+      "links": []
+    }
+  ],
+  "2025": [
+    {
+      "venue": "VLDB 2025",
+      "title": "CEDAR: A System for Cost-Efficient Data-Driven Claim Verification",
+      "authors": "Tharushi Jayasekara, Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "SIGMOD 2025",
+      "title": "Demonstrating CEDAR: A System for Cost-Efficient Data-Driven Claim Verification",
+      "authors": "Tharushi Jayasekara, Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "SIGMOD 2025",
+      "title": "Demonstrating SQLBarber: Leveraging Large Language Models to Generate Customized, Constraint-aware, and Realistic SQL",
+      "authors": "Jiale Lao, Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "SIGMOD 2025",
+      "title": "SwellDB: Dynamic Query-Driven Table Generation with Large Language Models",
+      "authors": "Victor Giannakouris, Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "SIGMOD 2025",
+      "title": "λ-Tune: Harnessing Large Language Models for Automated Database System Tuning",
+      "authors": "Victor Giannakouris, Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3709652"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2025",
+      "title": "SpareLLM: Automatically Selecting Task-Specific Minimum-Cost Large Language Models under Equivalence Constraint",
+      "authors": "Saehan Jo, Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "VLDBJ 2025 Best of VLDB",
+      "title": "Generating Highly Customizable Python Code for Data Processing with Large Language Models",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1007/s00778-025-00900-4"
+        }
+      ]
+    },
+    {
+      "venue": "Data Engineering Bulletin 2025",
+      "title": "Customizing Operator Implementations for SQL Processing via Large Language Models",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "http://sites.computer.org/debull/A25mar/p45.pdf"
+        }
+      ]
+    },
+    {
+      "venue": "PODS 2025",
+      "title": "Clustering with Comparison and Distance Oracles",
+      "authors": "Sainyam Galhotra, Rahul RayChaudhary, Stavros Sintos",
+      "links": []
+    },
+    {
+      "venue": "Q-Data 2025",
+      "title": "Leveraging Quantum Computing for Optimal Data Allocation in Distributed Systems",
+      "authors": "Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "Q-Data 2025",
+      "title": "Cost-Based Query Optimization for Quantum Computation",
+      "authors": "Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "CDMS 2025",
+      "title": "Rethinking Pluggable Federated Query Optimization: From Laptops to Data Warehouses",
+      "authors": "Victor Giannakouris, Immanuel Trummer",
+      "links": []
+    }
+  ],
+  "2024": [
+    {
+      "venue": "SIGMOD 2024",
+      "title": "Nexus: Correlation Discovery over Collections of Spatio-Temporal Tabular Data",
+      "authors": "Yue Gong, Sainyam Galhotra, and Raul Castro Fernandez",
+      "links": []
+    },
+    {
+      "venue": "SIGMOD 2024",
+      "title": "Faster Algorithms for Fair Max-Min Diversification in R^d",
+      "authors": "Yash Kurkure, Miles Shamo, Joseph Wiseman, Sainyam Galhotra, and Stavros Sintos",
+      "links": []
+    },
+    {
+      "venue": "SIGMOD 2024",
+      "title": "Demonstration of Ver: View Discovery in the Wild",
+      "authors": "Kevin Dharmawan, Chirag A. Kawediya, Yue Gong, Zaki Indra Yudhistira, Zhiru Zhu, Sainyam Galhotra, Adila Alfa Krisnadhi, Raul Castro Fernandez",
+      "links": []
+    },
+    {
+      "venue": "SIGMOD 2024",
+      "title": "ThalamusDB: Approximate Query Processing on Multi-Modal Data",
+      "authors": "Saehan Jo, Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "SIGMOD 2024",
+      "title": "ROME: Robust Query Optimization via Parallel Multi-Plan Execution",
+      "authors": "Ziyun Wei, Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "SIGMOD 2024",
+      "title": "Demonstrating λ-Tune: Exploiting Large Language Models for Workload-Adaptive Database System Tuning",
+      "authors": "Victor Giannakouris, Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "ICDE 2024",
+      "title": "Tutorial on Large Language Models: Principles and Practice",
+      "authors": "Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "VLDB 2024",
+      "title": "Quantum-Inspired Digital Annealing for Join Ordering",
+      "authors": "Manuel Schönberger, Immanuel Trummer, Wolfgang Mauerer",
+      "links": []
+    },
+    {
+      "venue": "VLDB 2024",
+      "title": "Fainder: A Fast and Accurate Index for Distribution-Aware Dataset Search",
+      "authors": "Lennart Behme, Sainyam Galhotra, Kaustubh Beedkar, Volker Markl",
+      "links": []
+    },
+    {
+      "venue": "Neurips 2024",
+      "title": "Intervention and Conditioning in Causal Bayesian Networks",
+      "authors": "Sainyam Galhotra, Joseph Y. Halpern",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://lfdr.de/Publications/2023/ScTrMa_TR.pdf"
+        }
+      ]
+    },
+    {
+      "venue": "VLDB 2024",
+      "title": "Generating Succinct Descriptions of Database Schemata for Cost-Efficient Prompting of Large Language Models",
+      "authors": "Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "VLDB 2024",
+      "title": "Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes",
+      "authors": "Simran Arora, Brandon Yang, Sabri Eyuboglu, Avanika Narayan, Andrew Hojel, Immanuel Trummer, Christopher Re",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://arxiv.org/abs/2304.09433"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/HazyResearch/evaporate"
+        }
+      ]
+    },
+    {
+      "venue": "VLDB 2024",
+      "title": "Can Large Language Models Predict Data Correlations from Column Names?",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://dl.acm.org/doi/10.14778/3625054.3625066"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/DataCorrelationPredictionWithNLP"
+        }
+      ]
+    },
+    {
+      "venue": "Q-DATA 2024",
+      "title": "Leveraging Quantum Computing for Database Index Selection",
+      "authors": "Immanuel Trummer, Davide Venturelli",
+      "links": []
+    },
+    {
+      "venue": "Q-DATA 2024",
+      "title": "Towards Out-of-Core Simulators for Quantum Computing",
+      "authors": "Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "RLC 2024",
+      "title": "JoinGym: An Efficient Join Order Selection Environment",
+      "authors": "Junxiong Wang, Kaiwen Wang, Yueying Li, Nathan Kallus, Immanuel Trummer, Wen Sun",
+      "links": []
+    }
+  ],
+  "2023": [
+    {
+      "venue": "MEAP Book",
+      "title": "AI-Assisted Data Science: Large Language Models for Multimodal Data Analysis",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Book",
+          "url": "https://www.manning.com/books/ai-assisted-data-science"
+        }
+      ]
+    },
+    {
+      "venue": "VLDBJ 2023",
+      "title": "DB-BERT: a Database Tuning Tool that \"Reads\" the Manual",
+      "authors": "Immanuel Trummer",
+      "links": []
+    },
+    {
+      "venue": "PVLDB 2023",
+      "title": "ADOPT: Adaptively Optimizing Attribute Orders for Worst-Case Optimal Join Algorithms via Reinforcement Learning",
+      "authors": "Junxiong Wang, Immanuel Trummer, Ahmet Kara, Dan Olteanu",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://arxiv.org/pdf/2307.16540"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/jxiw/ADOPT"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2023",
+      "title": "Demonstrating ADOPT: Adaptively Optimizing Attribute Orders for Worst-Case Optimal Joins via Reinforcement Learning",
+      "authors": "Junxiong Wang, Immanuel Trummer, Ahmet Kara, Dan Olteanu",
+      "links": [
+        {
+          "type": "Code",
+          "url": "https://github.com/jxiw/ADOPT"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2023",
+      "title": "Demonstrating GPT-DB: Generating Query-Specific and Customizable Code for SQL Processing with GPT-4",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/CodexDB"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2023",
+      "title": "Demonstrating NaturalMiner: Searching Large Data Sets for Abstract Patterns Described in Natural Language",
+      "authors": "Immanuel Trummer",
+      "award": "Best Demo Runner Up",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://dl.acm.org/doi/10.1145/3555041.3589694"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/NaturalMiner"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2023",
+      "title": "Demonstration of ThalamusDB: Answering Complex SQL Queries with Natural Language Predicates on Multi-Modal Data",
+      "authors": "Saehan Jo, Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://dl.acm.org/doi/abs/10.1145/3555041.3589730"
+        }
+      ]
+    },
+    {
+      "venue": "VLDB 2023 QDSM",
+      "title": "Quantum Optimisation of General Join Trees",
+      "authors": "Manuel Schönberger, Immanuel Trummer, Wolfgang Mauerer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://www.lfdr.de/Publications/2023/ScTrMa_QDSM23.pdf"
+        }
+      ]
+    }
+  ],
+  "2022": [
+    {
+      "venue": "PVLDB 2022",
+      "title": "CodexDB: Synthesizing Code for Query Processing from Natural Language Instructions Using GPT-3 Codex",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://www.vldb.org/pvldb/vol15/p2921-trummer.pdf"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/CodexDB"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2022",
+      "title": "BABOONS: Black-Box Optimization of Data Summaries in Natural Language",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://dl.acm.org/doi/10.14778/3551793.3551846"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/NaturalMiner"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2022",
+      "title": "From BERT to GPT-3 Codex: Harnessing the Potential of Very Large Language Models for Data Management",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://dl.acm.org/doi/10.14778/3554821.3554896"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2022",
+      "title": "UDO: Universal Database Optimization Using Reinforcement Learning",
+      "authors": "Junxiong Wang, Immanuel Trummer, Debabrota Basu",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3484224.3484236"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/jxiw/UDO"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2022",
+      "title": "SkinnerMT: Parallelizing for Efficiency and Robustness in Adaptive Query Processing on Multicore Platforms",
+      "authors": "Ziyun Wei, Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://www.vldb.org/pvldb/vol16/p905-wei.pdf"
+        }
+      ]
+    },
+    {
+      "venue": "VLDB 2022, PhD Workshop",
+      "title": "Building Learned Federated Query Optimizers",
+      "authors": "Victor Giannakouris, Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "http://ceur-ws.org/Vol-3186/paper_5.pdf"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2022",
+      "title": "Demonstrating DB-BERT: a Database Tuning Tool that \"Reads the Manual\"",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://dl.acm.org/doi/10.1145/3514221.3520171"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/dbbert"
+        }
+      ]
+    },
+    {
+      "venue": "AAAI 2022",
+      "title": "Procrastinated Tree Search: Black-Box Optimization with Delayed, Noisy, and Multi-Fidelity Feedback",
+      "authors": "Junxiong Wang, Debabrota Basu, Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1609/aaai.v36i9.21280"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/OVSS/PCTS"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2022",
+      "title": "DB-BERT: a Database Tuning Tool that \"Reads the Manual\"",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3514221.3517843"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/dbbert"
+        }
+      ]
+    },
+    {
+      "venue": "CIDR 2022",
+      "title": "Towards NLP-Enhanced Data Profiling Tools. (Abstract)",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://www.cidrdb.org/cidr2022/papers/a55-trummer.pdf"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/DataCorrelationPredictionWithNLP"
+        }
+      ]
+    }
+  ],
+  "2021": [
+    {
+      "venue": "TODS 2021 \"Best of SIGMOD\" Edition",
+      "title": "SkinnerDB: Regret-Bounded Query Evaluation via Reinforcement Learning",
+      "authors": "Immanuel Trummer, Junxiong Wang, Ziyun Wei, Deepak Maram, Samuel Moseley, Saehan Jo, Joseph Antonakakis",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3464389"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/cornelldbgroup/skinnerdb"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2021",
+      "title": "The Case for NLP-Enhanced Database Tuning: Towards Tuning Tools that Read the Manual",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3450980.3450984"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2021",
+      "title": "Robust Voice Querying with MUVE: Optimally Visualizing Results of Phonetically Similar Queries",
+      "authors": "Ziyun Wei, Immanuel Trummer, Connor Anderson",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3476249.3476289"
+        }
+      ]
+    },
+    {
+      "venue": "IEEE Data Engineering Bulletin",
+      "title": "WebChecker: Towards an Infrastructure for Efficient Misinformation Detection at Web Scale",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://scholar.archive.org/work/s5zifo4e4bbgrntq3ty3s7epmi/access/wayback/http://sites.computer.org/debull/A21sept/p66.pdf"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/WebChecker"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD Record 2021",
+      "title": "Database Tuning Using Natural Language Processing",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3503780.3503788"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2021",
+      "title": "Demonstrating UDO: a Unified Approach for Optimizing Transaction Code, Physical Design, and System Parameters via Reinforcement Learning",
+      "authors": "Junxiong Wang, Immanuel Trummer, Debabrota Basu",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3448016.3452754"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/jxiw/UDO"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2021",
+      "title": "Demonstrating Robust Voice Querying with MUVE: Optimally Visualizing Results of Phonetically Similar Queries",
+      "authors": "Ziyun Wei, Immanuel Trummer, Connor Anderson",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3448016.3452753"
+        }
+      ]
+    },
+    {
+      "venue": "ICDE 2021",
+      "title": "Optimally Summarizing Data by Small Fact Sets for Concise Answers to Voice Queries",
+      "authors": "Immanuel Trummer, Connor Anderson",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1109/ICDE51399.2021.00151"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/CiceroDBzero"
+        }
+      ]
+    }
+  ],
+  "2020": [
+    {
+      "venue": "BDA 2020",
+      "title": "Scrutinizer: a System for Checking Statistical Claims",
+      "authors": "Georgios Karagiannis, Mohammed Saeed, Paolo Papotti, Immanuel Trummer",
+      "award": "Best Demonstration Award",
+      "links": []
+    },
+    {
+      "venue": "PVLDB 2020",
+      "title": "Scrutinizer: A Mixed-Initiative Approach to Large-Scale, Data-Driven Claim Verification",
+      "authors": "George Karagiannis, Mohammed Saeed, Paolo Papotti, Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3407790.3407841"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/geokaragiannis/statchecker"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2020",
+      "title": "Mining an \"Anti-Knowledge Base\" from Wikipedia Updates with Applications to Fact Checking and Beyond",
+      "authors": "Georgios Karagiannis, Immanuel Trummer, Saehan Jo, Shubham Khandelwal, Xuezhi Wang, Cong Yu",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3372716.3372727"
+        },
+        {
+          "type": "Data",
+          "url": "https://github.com/cornelldbgroup/AntiKnowledgeBase"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2020",
+      "title": "Demonstration of ScroogeDB: Getting More Bang for the Buck with Deterministic Approximation in the Cloud",
+      "authors": "Saehan Jo, Jialing Pei, Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3415478.3415519"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2020",
+      "title": "Demonstrating the Voice-Based Exploration of Large Data Sets with CiceroDB-Zero",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3415478.3415496"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/CiceroDBzero"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2020",
+      "title": "Scrutinizer: Fact Checking Statistical Claims",
+      "authors": "George Karagiannis, Mohammed Saeed, Paolo Papotti, Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3415478.3415520"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/geokaragiannis/statchecker"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2020",
+      "title": "Demonstration of BitGourmet: Data Analysis via Deterministic Approximation",
+      "authors": "Saehan Jo, Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3318464.3384709"
+        }
+      ]
+    },
+    {
+      "venue": "CIDR 2020",
+      "title": "BitGourmet: Deterministic Approximation via Optimized Bit Selections",
+      "authors": "Saehan Jo, Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://www.cidrdb.org/cidr2020/papers/p5-jo-cidr20.pdf"
+        }
+      ]
+    }
+  ],
+  "2019": [
+    {
+      "venue": "SIGMOD 2019",
+      "title": "SkinnerDB: Regret-bounded Query Evaluation via Reinforcement Learning",
+      "authors": "Immanuel Trummer, Junxiong Wang, Deepak Maram, Samuel Moseley, Saehan Jo, Joseph Antonakakis",
+      "award": "Selected for \"Best of SIGMOD\"",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3299869.3300088"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2019",
+      "title": "A Holistic Approach for Query Evaluation and Result Vocalization in Voice-Based OLAP",
+      "authors": "Immanuel Trummer, Yicheng Wang, Saketh Mahankali",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3299869.3300089"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2019",
+      "title": "Exact Cardinality Query Optimization with Bounded Execution Cost",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3299869.3300087"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/itrummer/ExactCardinalityQueryOptimization"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2019",
+      "title": "Verifying Text Summaries of Relational Data Sets",
+      "authors": "Saehan Jo, Immanuel Trummer, Weicheng Yu, Xuezhi Wang, Cong Yu, Daniel Liu, Niyati Mehta",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3299869.3300074"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2019",
+      "title": "AggChecker: a Fact-Checking System for Text Summaries of Relational Data Sets",
+      "authors": "Saehan Jo, Immanuel Trummer, Weicheng Yu, Xuezhi Wang, Cong Yu, Daniel Liy Niyati Mehta",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3352063.3352104"
+        }
+      ]
+    },
+    {
+      "venue": "CIDR 2019",
+      "title": "Data Vocalization with CiceroDB",
+      "authors": "Immanuel Trummer",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://www.cidrdb.org/cidr2019/papers/p39-trummer-cidr19.pdf"
+        }
+      ]
+    }
+  ],
+  "2018": [
+    {
+      "venue": "PVLDB 2018",
+      "title": "SkinnerDB: Regret-Bounded Query Evaluation via Reinforcement Learning",
+      "authors": "Immanuel Trummer, Samuel Moseley, Joseph Antonakakis, Saehan Jo",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3229863.3236263"
+        },
+        {
+          "type": "Code",
+          "url": "https://github.com/cornelldbgroup/skinnerdb"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2018",
+      "title": "Vocalizing Large Time Series Efficiently",
+      "authors": "Immanuel Trummer, Mark Bryan, Ramya Narasimha",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3236187.3236206"
+        }
+      ]
+    }
+  ],
+  "2017": [
+    {
+      "venue": "CACM 2017",
+      "title": "Multi-Objective Parametric Query Optimization",
+      "authors": "Immanuel Trummer, Christoph Koch",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3068612"
+        }
+      ]
+    },
+    {
+      "venue": "PVLDB 2017",
+      "title": "Data Vocalization: Optimizing Voice Output of Relational Data",
+      "authors": "Immanuel Trummer, Jiancheng Zhu, Mark Bryan",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.14778/3137628.3137663"
+        }
+      ]
+    },
+    {
+      "venue": "SIGMOD 2017",
+      "title": "Solving the Join Ordering Problem via Mixed Integer Linear Programming",
+      "authors": "Immanuel Trummer, Christoph Koch",
+      "links": [
+        {
+          "type": "Paper",
+          "url": "https://doi.org/10.1145/3035918.3064039"
+        },
+        {
+          "type": "Code",
+          "url": "https://drive.google.com/open?id=0ByvVqlx_hKaLZXN1WV8weFRKQmc"
+        }
+      ]
+    }
+  ]
+}

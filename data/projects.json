@@ -1,0 +1,37 @@
+[
+  {
+    "title": "DB-BERT",
+    "url": "https://itrummer.github.io/dbbert/",
+    "description": "The database tuning tool that \"reads\" the manual."
+  },
+  {
+    "title": "UDO",
+    "url": "https://cornelldbgroup.github.io/UDO/",
+    "description": "The \"Swiss Army Knife\" of database tuning tools."
+  },
+  {
+    "title": "SkinnerDB",
+    "url": "https://cornelldbgroup.github.io/skinnerdb/",
+    "description": "Adaptive query processing with reinforcement learning."
+  },
+  {
+    "title": "NaturalMiner",
+    "url": "https://github.com/itrummer/NaturalMiner",
+    "description": "Automate exploratory data analysis via LLMs."
+  },
+  {
+    "title": "CodexDB",
+    "url": "https://itrummer.github.io/CodexDB/",
+    "description": "Synthesize Python code for data processing via LLMs."
+  },
+  {
+    "title": "CiceroDB",
+    "url": "https://itrummer.github.io/databyvoice/",
+    "description": "Efficient and effective voice query interfaces."
+  },
+  {
+    "title": "Scrutinizer",
+    "url": "https://coronacheck.eurecom.fr/en",
+    "description": "Fact-checking natural language claims from data."
+  }
+]

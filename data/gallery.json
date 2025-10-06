@@ -1,0 +1,26 @@
+[
+  {
+    "src": "static/images/life/retreat-24.jpg",
+    "caption": "Retreat 2024"
+  },
+  {
+    "src": "static/images/life/retreat-24-ball.jpg",
+    "caption": "Retreat 2024 - Ball Game"
+  },
+  {
+    "src": "static/images/life/retreat-25.jpg",
+    "caption": "Retreat 2025"
+  },
+  {
+    "src": "static/images/life/saehan-graduation.jpg",
+    "caption": "Saehan's Graduation"
+  },
+  {
+    "src": "static/images/life/sigmod-group.jpg",
+    "caption": "SIGMOD - Group Photo"
+  },
+  {
+    "src": "static/images/life/sigmod-jiale-immanuel.jpg",
+    "caption": "SIGMOD - Jiale & Immanuel"
+  }
+]

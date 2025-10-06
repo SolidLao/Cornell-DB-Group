@@ -1,0 +1,85 @@
+{
+  "faculty": [
+    {
+      "name": "Immanuel Trummer",
+      "image": "static/images/people/immanuel-trummer.png",
+      "website": "https://itrummer.github.io/"
+    },
+    {
+      "name": "Sainyam Galhotra",
+      "image": "static/images/people/sainyam.png",
+      "website": "http://www.sainyamgalhotra.com"
+    }
+  ],
+  "phd_students": [
+    {
+      "name": "Anna Mazhar",
+      "image": "static/images/people/anna.png",
+      "website": "https://anna-mazhar.github.io/"
+    },
+    {
+      "name": "Eric Enouen",
+      "image": "static/images/people/eric.png",
+      "website": "https://ericenouen.github.io/"
+    },
+    {
+      "name": "Jiale Lao",
+      "image": "static/images/people/jiale.jpg",
+      "website": "https://solidlao.github.io/"
+    },
+    {
+      "name": "Ning Wang",
+      "image": "static/images/people/ning.png",
+      "website": ""
+    },
+    {
+      "name": "Tharushi Jayasekara",
+      "image": "static/images/people/tharushi.png",
+      "website": "https://tharushijay.github.io/"
+    },
+    {
+      "name": "Victor Giannakouris",
+      "image": "static/images/people/victor.png",
+      "website": "https://gsvic.github.io/"
+    },
+    {
+      "name": "Wenzhi Li",
+      "image": "static/images/people/wenzhi.png",
+      "website": "https://wenzhilics.github.io/"
+    }
+  ],
+  "phd_graduates": [
+    {
+      "name": "Junxiong Wang",
+      "image": "static/images/people/junxiong.png",
+      "website": "https://jxiw.github.io/",
+      "affiliation": "TogetherAI"
+    },
+    {
+      "name": "Saehan Jo",
+      "image": "static/images/people/saehan.png",
+      "website": "https://saehanjo.github.io/",
+      "affiliation": "Amazon"
+    },
+    {
+      "name": "Ziyun Wei",
+      "image": "static/images/people/ziyun.png",
+      "website": "https://ultra-seven.github.io/",
+      "affiliation": "ByteDance"
+    }
+  ],
+  "undergraduate_students": [
+    {
+      "name": "Ved Sriraman"
+    },
+    {
+      "name": "Shubham Mohole"
+    },
+    {
+      "name": "Ashley Granitto"
+    },
+    {
+      "name": "Connor Anderson"
+    }
+  ]
+}
